@@ -11,7 +11,7 @@ import SEO from '../components/seo';
 import SearchForm from '../components/search-form';
 
 const Container = styled.div`
-  max-width: 700px;
+  max-width: 900px;
   margin: 0 auto;
 `;
 
